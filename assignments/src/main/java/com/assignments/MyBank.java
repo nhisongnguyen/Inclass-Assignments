@@ -38,7 +38,6 @@ public class MyBank {
 			break;
 		default: System.out.println("Invalid choice");
 		}
-		scan.close();
 	}
 
 }
