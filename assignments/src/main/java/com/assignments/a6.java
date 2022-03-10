@@ -1,5 +1,8 @@
 package com.assignments;
 
+/*Given a string and it contains characters.  
+ * Check whether the given String is Palindrome or not (use String only).*/
+
 public class a6 {
 
 	public static void main(String[] args) {
